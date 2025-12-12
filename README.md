@@ -44,6 +44,8 @@ Os dados foram coletados pela World Health Organization (WHO ~ Organização Mun
 - **'thinness 5-9 years'**: Percentual de pessoas de 5 a 9 anos magras (%).
 - **'Income composition of resources'**: Índice de Desenvolvimento Humano (IDH) baseado na renda.
 - **'Schooling'**: Quantidade de anos de escolarização.
+- **'region'**: Continente.
+- **'subregion'**: Subcontinente.
 
 🔗 [dataset link ~ Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
 
