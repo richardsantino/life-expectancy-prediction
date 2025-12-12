@@ -34,9 +34,8 @@ Os dados de população, continente e subcontinente **('Population', 'region', '
 - **'Alcohol'**: Quantidade consumida de álcool em média por pessoa de 15+ anos (l ~ puro álcool).
 - **'GDP'**: Produto Interno Bruto (PIB) médio por pessoa (U$D).
 - **'BMI'**: IMC médio das pessoas.
-- **'thinness 1-19 years'**: Percentual de pessoas de 10 a 19 anos magras (%).
+- **'thinness 10-19 years'**: Percentual de pessoas de 10 a 19 anos magras (%).
 - **'thinness 5-9 years'**: Percentual de pessoas de 5 a 9 anos magras (%).
-- **'percentage expenditure'**: Percentual do Produto Interno Bruto (PIB) gasto com saúde por pessoa (%).
 - **'Total expenditure'**: Percentual do gasto do governo gasto com saúde (%).
 - **'Hepatitis B'**: Percentual de bebês (1- anos) imunes contra Hepatite B (%).
 - **'Polio'**: Percentual de bebês (1- anos) imunes contra Poliomielite (%).
