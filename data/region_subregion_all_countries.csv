@@ -1,0 +1,184 @@
+,Country,region,subregion
+0,Afghanistan,Asia,Southern Asia
+1,Albania,Europe,Southeast Europe
+2,Algeria,Africa,Northern Africa
+3,Angola,Africa,Middle Africa
+4,Antigua and Barbuda,Americas,Caribbean
+5,Argentina,Americas,South America
+6,Armenia,Asia,Western Asia
+7,Australia,Oceania,Australia and New Zealand
+8,Austria,Europe,Central Europe
+9,Azerbaijan,Asia,Western Asia
+10,Bahamas,Americas,Caribbean
+11,Bahrain,Asia,Western Asia
+12,Bangladesh,Asia,Southern Asia
+13,Barbados,Americas,Caribbean
+14,Belarus,Europe,Eastern Europe
+15,Belgium,Europe,Western Europe
+16,Belize,Americas,Central America
+17,Benin,Africa,Western Africa
+18,Bhutan,Asia,Southern Asia
+19,Bolivia (Plurinational State of),Americas,South America
+20,Bosnia and Herzegovina,Europe,Southeast Europe
+21,Botswana,Africa,Southern Africa
+22,Brazil,Americas,South America
+23,Brunei Darussalam,Asia,South-Eastern Asia
+24,Bulgaria,Europe,Southeast Europe
+25,Burkina Faso,Africa,Western Africa
+26,Burundi,Africa,Eastern Africa
+27,Cabo Verde,Africa,Western Africa
+28,Cambodia,Asia,South-Eastern Asia
+29,Cameroon,Africa,Middle Africa
+30,Canada,Americas,North America
+31,Central African Republic,Africa,Middle Africa
+32,Chad,Africa,Middle Africa
+33,Chile,Americas,South America
+34,China,Asia,Eastern Asia
+35,Colombia,Americas,South America
+36,Comoros,Africa,Eastern Africa
+37,Congo,Africa,Middle Africa
+38,Costa Rica,Americas,Central America
+39,Croatia,Europe,Southeast Europe
+40,Cuba,Americas,Caribbean
+41,Cyprus,Europe,Southern Europe
+42,Czechia,Europe,Central Europe
+43,Côte d'Ivoire,Africa,Western Africa
+44,Democratic People's Republic of Korea,Asia,Eastern Asia
+45,Democratic Republic of the Congo,Africa,Middle Africa
+46,Denmark,Europe,Northern Europe
+47,Djibouti,Africa,Eastern Africa
+48,Dominican Republic,Americas,Caribbean
+49,Ecuador,Americas,South America
+50,Egypt,Africa,Northern Africa
+51,El Salvador,Americas,Central America
+52,Equatorial Guinea,Africa,Middle Africa
+53,Eritrea,Africa,Eastern Africa
+54,Estonia,Europe,Northern Europe
+55,Ethiopia,Africa,Eastern Africa
+56,Fiji,Oceania,Melanesia
+57,Finland,Europe,Northern Europe
+58,France,Europe,Western Europe
+59,Gabon,Africa,Middle Africa
+60,Gambia,Africa,Western Africa
+61,Georgia,Asia,Western Asia
+62,Germany,Europe,Western Europe
+63,Ghana,Africa,Western Africa
+64,Greece,Europe,Southern Europe
+65,Grenada,Americas,Caribbean
+66,Guatemala,Americas,Central America
+67,Guinea,Oceania,Melanesia
+68,Guinea-Bissau,Africa,Western Africa
+69,Guyana,Americas,South America
+70,Haiti,Americas,Caribbean
+71,Honduras,Americas,Central America
+72,Hungary,Europe,Central Europe
+73,Iceland,Europe,Northern Europe
+74,India,Africa,Eastern Africa
+75,Indonesia,Asia,South-Eastern Asia
+76,Iran (Islamic Republic of),Asia,Southern Asia
+77,Iraq,Asia,Western Asia
+78,Ireland,Europe,Northern Europe
+79,Israel,Asia,Western Asia
+80,Italy,Europe,Southern Europe
+81,Jamaica,Americas,Caribbean
+82,Japan,Asia,Eastern Asia
+83,Jordan,Asia,Western Asia
+84,Kazakhstan,Asia,Central Asia
+85,Kenya,Africa,Eastern Africa
+86,Kiribati,Oceania,Micronesia
+87,Kuwait,Asia,Western Asia
+88,Kyrgyzstan,Asia,Central Asia
+89,Lao People's Democratic Republic,Asia,South-Eastern Asia
+90,Latvia,Europe,Northern Europe
+91,Lebanon,Asia,Western Asia
+92,Lesotho,Africa,Southern Africa
+93,Liberia,Africa,Western Africa
+94,Libya,Africa,Northern Africa
+95,Lithuania,Europe,Northern Europe
+96,Luxembourg,Europe,Western Europe
+97,Madagascar,Africa,Eastern Africa
+98,Malawi,Africa,Eastern Africa
+99,Malaysia,Asia,South-Eastern Asia
+100,Maldives,Asia,Southern Asia
+101,Mali,Africa,Western Africa
+102,Malta,Europe,Southern Europe
+103,Mauritania,Africa,Western Africa
+104,Mauritius,Africa,Eastern Africa
+105,Mexico,Americas,North America
+106,Micronesia (Federated States of),Oceania,Micronesia
+107,Mongolia,Asia,Eastern Asia
+108,Montenegro,Europe,Southeast Europe
+109,Morocco,Africa,Northern Africa
+110,Mozambique,Africa,Eastern Africa
+111,Myanmar,Asia,South-Eastern Asia
+112,Namibia,Africa,Southern Africa
+113,Nepal,Asia,Southern Asia
+114,Netherlands,Europe,Western Europe
+115,New Zealand,Oceania,Australia and New Zealand
+116,Nicaragua,Americas,Central America
+117,Niger,Africa,Western Africa
+118,Nigeria,Africa,Western Africa
+119,Norway,Europe,Northern Europe
+120,Oman,Europe,Southeast Europe
+121,Pakistan,Asia,Southern Asia
+122,Panama,Americas,Central America
+123,Papua New Guinea,Oceania,Melanesia
+124,Paraguay,Americas,South America
+125,Peru,Americas,South America
+126,Philippines,Asia,South-Eastern Asia
+127,Poland,Europe,Central Europe
+128,Portugal,Europe,Southern Europe
+129,Qatar,Asia,Western Asia
+130,Republic of Korea,Asia,Eastern Asia
+131,Republic of Moldova,Europe,Eastern Europe
+132,Romania,Europe,Southeast Europe
+133,Russian Federation,Europe,Eastern Europe
+134,Rwanda,Africa,Eastern Africa
+135,Saint Lucia,Americas,Caribbean
+136,Saint Vincent and the Grenadines,Americas,Caribbean
+137,Samoa,Oceania,Polynesia
+138,Sao Tome and Principe,Africa,Middle Africa
+139,Saudi Arabia,Asia,Western Asia
+140,Senegal,Africa,Western Africa
+141,Serbia,Europe,Southeast Europe
+142,Seychelles,Africa,Eastern Africa
+143,Sierra Leone,Africa,Western Africa
+144,Singapore,Asia,South-Eastern Asia
+145,Slovakia,Europe,Central Europe
+146,Slovenia,Europe,Central Europe
+147,Solomon Islands,Oceania,Melanesia
+148,Somalia,Africa,Eastern Africa
+149,South Africa,Africa,Southern Africa
+150,South Sudan,Africa,Middle Africa
+151,Spain,Europe,Southern Europe
+152,Sri Lanka,Asia,Southern Asia
+153,Sudan,Africa,Middle Africa
+154,Suriname,Americas,South America
+155,Swaziland,Africa,Southern Africa
+156,Sweden,Europe,Northern Europe
+157,Switzerland,Europe,Western Europe
+158,Syrian Arab Republic,Asia,Western Asia
+159,Tajikistan,Asia,Central Asia
+160,Thailand,Asia,South-Eastern Asia
+161,The former Yugoslav republic of Macedonia,Europe,Southeast Europe
+162,Timor-Leste,Asia,South-Eastern Asia
+163,Togo,Africa,Western Africa
+164,Tonga,Oceania,Polynesia
+165,Trinidad and Tobago,Americas,Caribbean
+166,Tunisia,Africa,Northern Africa
+167,Turkey,Asia,Western Asia
+168,Turkmenistan,Asia,Central Asia
+169,Uganda,Africa,Eastern Africa
+170,Ukraine,Europe,Eastern Europe
+171,United Arab Emirates,Asia,Western Asia
+172,United Kingdom of Great Britain and Northern Ireland,Europe,Northern Europe
+173,United Republic of Tanzania,Africa,Eastern Africa
+174,United States of America,Americas,North America
+175,Uruguay,Americas,South America
+176,Uzbekistan,Asia,Central Asia
+177,Vanuatu,Oceania,Melanesia
+178,Venezuela (Bolivarian Republic of),Americas,South America
+179,Viet Nam,Asia,South-Eastern Asia
+180,Yemen,Asia,Western Asia
+181,Zambia,Africa,Eastern Africa
+182,Zimbabwe,Africa,Southern Africa
