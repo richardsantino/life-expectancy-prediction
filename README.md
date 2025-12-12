@@ -20,10 +20,10 @@ Este projeto tem como objetivo entender como variaveis da humanidade se relacion
 **9.** Criar um modelo preditivo para prever a expectativa de vida.
 
 ## Dados
-Os dados foram coletados pela World Health Organization (WHO ~ Organização Mundial de Saúde) e United Nations (ONU ~ Organização das Nações Unidas). Refletem a humanidade entre 2000 e 2015 para 193 países.
+Os dados foram coletados pela World Health Organization (WHO ~ Organização Mundial de Saúde) e United Nations (ONU ~ Organização das Nações Unidas). Refletem a humanidade entre 2000 e 2015 para 193 países *(population_2000_2015_all_countries.csv)*. Os dados de população **('Population')** e continente e subcontinente **('region', 'subregion')** foram extraidos via API durante o projeto *(population_2000_2015_all_countries.csv, region_subregion_all_countries.csv)*.
 
 - **'Country'**: País.
-- **'Year'**: Ano.
+- **'Year'**: Ano. 
 - **'Status'**: Status de desenvolvimento.
 - **'Life expectancy'**: Expectativa de vida (anos).
 - **'Adult Mortality'**: Quantidade de mortes de pessoas de 15 a 60 anos (a cada 1k pessoas). 
@@ -48,6 +48,8 @@ Os dados foram coletados pela World Health Organization (WHO ~ Organização Mun
 - **'subregion'**: Subcontinente.
 
 🔗 [dataset link ~ Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
+⚙️ [api região e subregião link ~ Publicapi](https://publicapi.dev/rest-countries-api)
+⚙️ [api população link ~ World Bank](https://documents.worldbank.org/en/publication/documents-reports/api)
 
 ## Insights
 ...
