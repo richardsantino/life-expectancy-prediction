@@ -20,36 +20,37 @@ Este projeto tem como objetivo entender como variaveis da humanidade se relacion
 **9.** Criar um modelo preditivo para prever a expectativa de vida.
 
 ## Dados
-Os dados foram coletados pela World Health Organization (WHO ~ Organização Mundial de Saúde) e United Nations (ONU ~ Organização das Nações Unidas). Refletem a humanidade entre 2000 e 2015 para 193 países *(population_2000_2015_all_countries.csv)*. Os dados de população **('Population')** e continente e subcontinente **('region', 'subregion')** foram extraidos via API durante o projeto *(population_2000_2015_all_countries.csv, region_subregion_all_countries.csv)*.
+Os dados foram coletados pela World Health Organization (WHO ~ Organização Mundial de Saúde) e United Nations (ONU ~ Organização das Nações Unidas). Refletem a humanidade entre 2000 e 2015 para 193 países *(population_2000_2015_all_countries.csv)*. <br>
+Os dados de população, continente e subcontinente **('Population', 'region', 'subregion')** foram extraidos via API durante o projeto *(population_2000_2015_all_countries.csv, region_subregion_all_countries.csv)*.
 
+- **'Year'**: Ano.
 - **'Country'**: País.
-- **'Year'**: Ano. 
-- **'Status'**: Status de desenvolvimento.
-- **'Life expectancy'**: Expectativa de vida (anos).
-- **'Adult Mortality'**: Quantidade de mortes de pessoas de 15 a 60 anos (a cada 1k pessoas). 
-- **'infant deaths'**: Quantidade de mortes infantis (a cada 1k pessoas).
-- **'Alcohol'**: Quantidade consumida de álcool em média por pessoa de 15+ anos (l ~ puro álcool)
-- **'percentage expenditure'**: Percentual do Produto Interno Bruto (PIB) gasto com saúde por pessoa (%).
-- **'Hepatitis B'**: Percentual de bebês (1- anos) imunes contra Hepatite B (%).
-- **'Measles'**: Quantidade de casos de sarampo (a cada 1k pessoas).
-- **'BMI'**: IMC médio das pessoas.
-- **'under-five deaths'**: Quantidade de mortes de crianças (5- anos) (a cada 1k pessoas). 
-- **'Polio'**: Percentual de bebês (1- anos) imunes contra Poliomielite (%).
-- **'Total expenditure'**: Percentual do gasto do governo gasto com saúde (%)
-- **'Diphtheria'**: Percentual de bebês (1- anos) imunes contra difteria tétano e coqueluche (vacina combinada) (%).
-- **'HIV/AIDS'**: Quantidade de mortes de crianças (5- anos) por HIV/AIDS (a cada 1k pessoas).
-- **'GDP'**: Produto Interno Bruto (PIB) médio por pessoa (U$D).
-- **'Population'**: Quantidade de pessoas.
-- **'thinness 1-19 years'**: Percentual de pessoas de 10 a 19 anos magras (%).
-- **'thinness 5-9 years'**: Percentual de pessoas de 5 a 9 anos magras (%).
-- **'Income composition of resources'**: Índice de Desenvolvimento Humano (IDH) baseado na renda.
-- **'Schooling'**: Quantidade de anos de escolarização.
 - **'region'**: Continente.
 - **'subregion'**: Subcontinente.
+- **'Status'**: Status de desenvolvimento.
+- **'Population'**: Quantidade de pessoas.
+- **'Income composition of resources'**: Índice de Desenvolvimento Humano (IDH) baseado na renda.
+- **'Schooling'**: Quantidade de anos de escolarização.
+- **'Alcohol'**: Quantidade consumida de álcool em média por pessoa de 15+ anos (l ~ puro álcool).
+- **'GDP'**: Produto Interno Bruto (PIB) médio por pessoa (U$D).
+- **'BMI'**: IMC médio das pessoas.
+- **'thinness 1-19 years'**: Percentual de pessoas de 10 a 19 anos magras (%).
+- **'thinness 5-9 years'**: Percentual de pessoas de 5 a 9 anos magras (%).
+- **'percentage expenditure'**: Percentual do Produto Interno Bruto (PIB) gasto com saúde por pessoa (%).
+- **'Total expenditure'**: Percentual do gasto do governo gasto com saúde (%).
+- **'Hepatitis B'**: Percentual de bebês (1- anos) imunes contra Hepatite B (%).
+- **'Polio'**: Percentual de bebês (1- anos) imunes contra Poliomielite (%).
+- **'Diphtheria'**: Percentual de bebês (1- anos) imunes contra difteria tétano e coqueluche (vacina combinada) (%).
+- **'Adult Mortality'**: Quantidade de mortes de pessoas de 15 a 60 anos (a cada 1k pessoas).
+- **'infant deaths'**: Quantidade de mortes infantis (a cada 1k pessoas).
+- **'under-five deaths'**: Quantidade de mortes de crianças (5- anos) (a cada 1k pessoas).
+- **'HIV/AIDS'**: Quantidade de mortes de crianças (5- anos) por HIV/AIDS (a cada 1k pessoas).
+- **'Measles'**: Quantidade de casos de sarampo (a cada 1k pessoas).
+- **'Life expectancy'**: Expectativa de vida (anos).
 
-🔗 [dataset link ~ Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who)
-⚙️ [api região e subregião link ~ Publicapi](https://publicapi.dev/rest-countries-api)
-⚙️ [api população link ~ World Bank](https://documents.worldbank.org/en/publication/documents-reports/api)
-
+🔗 [dataset link ~ Kaggle](https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who) <br>
+⚙️ [api região e subregião link ~ Publicapi](https://publicapi.dev/rest-countries-api) <br>
+⚙️ [api população link ~ World Bank](https://documents.worldbank.org/en/publication/documents-reports/api) <br>
+ 
 ## Insights
 ...
