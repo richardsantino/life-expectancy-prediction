@@ -122,4 +122,11 @@ variaveis *não* significantes:
 **8.** Positivo **Diphtheria** e **Polio** para e nagativo para **Hepatitis_B**, sendo, em módulo, o coef de **Hepatitis_B** o menor (menos impactante) e **Diphtheria** o maior (mais impactante).
 
 ## Modelo
-...
+Foram testados três modelos diferentes: **Regressão Linear**, **Arvore de Decisão Regressora** e **Floresta Aleatória Regressora**. Entre os três modelos o que obteve melhor performance foi ***Floresta Aleatória Regressora***, seu score foi:
+
+R²: **0.9949** (treino), **0.9550** (validação) e **0.9686** (teste).  <br>
+RMSE: **0.6843** (treino), **1.9733** (validação) e  **1.7025** (teste). <br>
+MAPE: **0.0064** (treino), **0.0176** (validação) e **0.0165** (teste). <br>
+
+## 
+
