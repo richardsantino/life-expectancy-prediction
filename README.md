@@ -1,4 +1,4 @@
-## Predição de expectativa de vida.
+## Expectativa de vida.
 Este projeto tem como objetivo entender como variaveis da humanidade se relacionam com a expectativa de vida e criar um modelo preditivo que, baseado em variaveis de entrada, prevê a expectativa de vida.
 
 ## Conteúdo
